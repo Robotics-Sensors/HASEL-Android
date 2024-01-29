@@ -1,0 +1,3 @@
+# Ignore all files within the .ipynb_checkpoints/ folder
+.ipynb_checkpoints/
+
